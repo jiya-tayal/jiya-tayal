@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Jiya!
 
-<!--
-**jiya-tayal/jiya-tayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Massachusetts Amherst interested in exploring the intersection of computing and other disciplines to address real-world challenges.
 
-Here are some ideas to get you started:
+### Interests
+- Software Development
+- Data Science and Statistical Analysis
+- Artificial Intelligence and Machine Learning
+- Interdisciplinary Applications of Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+- Python
+- Java
+- JavaScript
+- R
+- dplyr
+- ggplot2
+
+### Projects
+I'm building projects involving software development, programming, statistical analysis, and data-driven research. More coming soon!
